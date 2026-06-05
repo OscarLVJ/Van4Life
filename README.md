@@ -54,7 +54,7 @@ Ensure you have Node.js and `pnpm` globally configured in your environment.
 
 * Twitter: [@devOscar\_](https://twitter.com/devOscar\_)
 * Github: [@OscarLVJ](https://github.com/OscarLVJ)
-* LinkedIn: [@Óscar Valverde Jiménez](https://linkedin.com/in/ÓscarValverdeJiménez)
+* LinkedIn: [@Óscar Valverde Jiménez](https://www.linkedin.com/in/%C3%B3scar-valverde-jim%C3%A9nez/)
 
 📝 License
 This project is licensed under the MIT License.
