@@ -39,7 +39,7 @@ Ensure you have Node.js and `pnpm` globally configured in your environment.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/OscarLVJ/VanLifeVbF.git](https://github.com/OscarLVJ/VanLifeVbF.git)
+   git clone [https://github.com/OscarLVJ/Van4Life.git](https://github.com/OscarLVJ/Van4Life.git)
    cd VanLifeVbF
 
 2. Install dependencies via pnpm:
